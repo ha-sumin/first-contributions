@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [ha-sumin](https://github.com/ha-sumin)
 - [Jungmw03](https://github.com/Jungmw03)
 - [yutakdv](https://github.com/yutakdv)
 - [yaho1231](https://github.com/yaho1231/)
